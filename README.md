@@ -1,7 +1,7 @@
 # randomforest
 随机森林，该模型用于预测气候温度
 
-问题重述：预测当日温度,运用RandomForestRegressor(随机森林回归）
+问题重述：预测当日温度,运用RandomForestRegressor(随机森林回归）\n
 1.确定最优训练集：
 第一个训练集拥有253个样本+14个指标
 第二个训练集拥有1635个样本+17个指标
